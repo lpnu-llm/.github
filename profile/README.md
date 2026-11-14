@@ -25,9 +25,9 @@ Course about parts of transformer neural networks and their assemble together.
 
 #### Лабораторні роботи:
 
-1. Тензори та матричні операції (https://github.com/lpnu-llm/lab-tensors)
-2. Токенізація (https://github.com/lpnu-llm/lab-tokenizer)
-3. Механізм уваги (https://github.com/lpnu-llm/lab-attention)
-4. Позиційне кодування (https://github.com/lpnu-llm/lab-positional-encoding)
-5. Залишкові зв’язки, нормалізація та Dropout (https://github.com/lpnu-llm/Lab-encoder)
-6. Transformer: T5 та суміш експертів (https://github.com/lpnu-llm/lab-transformer)
+1. [Тензори та матричні операції](https://github.com/lpnu-llm/lab-tensors)
+2. [Токенізація](https://github.com/lpnu-llm/lab-tokenizer)
+3. [Механізм уваги](https://github.com/lpnu-llm/lab-attention)
+4. [Позиційне кодування](https://github.com/lpnu-llm/lab-positional-encoding)
+5. [Залишкові зв’язки, нормалізація та Dropout](https://github.com/lpnu-llm/Lab-encoder)
+6. [Transformer: T5 та суміш експертів](https://github.com/lpnu-llm/lab-transformer)
